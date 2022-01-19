@@ -10,7 +10,7 @@
   },
   "flowOptions": {
     "virtualizable": false,
-    "rebuildBehavior": "NORMAL",
+"rebuildBehavior": "NORMAL",
     "crossProjectBuildBehavior": "DEFAULT"
   },
   "readWriteOptions": {
