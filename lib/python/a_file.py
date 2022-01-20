@@ -3,3 +3,6 @@ def a_shitty_function:
 
 def x:
     return "hello world"
+
+def another:
+    return "asdfa"
