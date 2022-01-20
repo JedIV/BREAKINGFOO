@@ -11,7 +11,7 @@
   "bundleExporterSettings": {
     "exportOptions": {
       "exportUploads": false,
-      "exportManagedFS": false,
+      "exportManagedFS": true,
       "exportAnalysisModels": false,
       "exportSavedModels": false,
       "exportManagedFolders": false,
