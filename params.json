@@ -10,7 +10,7 @@
   "projectAppType": "REGULAR",
   "bundleExporterSettings": {
     "exportOptions": {
-      "exportUploads": false,
+      "exportUploads": true,
       "exportManagedFS": false,
       "exportAnalysisModels": false,
       "exportSavedModels": false,
